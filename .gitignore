@@ -30,4 +30,5 @@ error_logs.log
 
 #Build
 dist/
-djlotrek.egg-info/
+*.egg-info/
+
