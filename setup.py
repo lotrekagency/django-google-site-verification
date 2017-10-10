@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-google-site-verification',
+    name='google-site-verification',
     version='0.0.1',
     url='https://github.com/lotrekagency/cattp',
     install_requires=[],

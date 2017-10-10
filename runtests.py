@@ -30,7 +30,7 @@ def runtests(*test_args):
     runner = NoseTestSuiteRunner()
 
     if not test_args:
-        test_args = ['cattp']
+        test_args = ['google-site-verification']
     num_failures = runner.run_tests(test_args)
     if num_failures:
         sys.exit(num_failures)
@@ -57,6 +57,6 @@ if __name__ == '__main__':
         # why the coverage trigger uses '--with-coverage' and why we don't need
         # to explicitly include it here.
         nose_args.extend([
-            '--cover-package=cattp', '--cover-branch', '--cover-html', '--cover-html-dir=htmlcov', '--nocapture'])
+            '--cover-package=google-site-verification', '--cover-branch', '--cover-html', '--cover-html-dir=htmlcov', '--nocapture'])
     configure(nose_args)
     runtests()
