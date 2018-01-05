@@ -10,9 +10,9 @@ Our internal utility to easily add Google verification file
 
 Include google_site_verification in your INSTALLED_APPS
 
-INSTALLED_APPS = [
-    'google_site_verification',
-]
+    INSTALLED_APPS = [
+        'google_site_verification',
+    ]
 
 To setup your google site verification html file just add to your settings
 
