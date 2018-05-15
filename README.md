@@ -1,4 +1,5 @@
 # django-google-site-verification
+[![Latest Version](https://img.shields.io/pypi/v/google-site-verification.svg)](https://pypi.python.org/pypi/google-site-verification/)
 
 Our internal utility to easily add Google verification file
 
