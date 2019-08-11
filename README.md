@@ -1,7 +1,7 @@
 # django-google-site-verification
 [![Latest Version](https://img.shields.io/pypi/v/google-site-verification.svg)](https://pypi.python.org/pypi/google-site-verification/)
-[![codecov](https://codecov.io/gh/lotrekagency/google-site-verification/branch/master/graph/badge.svg)](https://codecov.io/gh/lotrekagency/google-site-verification)
-[![Build Status](https://travis-ci.org/lotrekagency/google-site-verification.svg?branch=master)](https://travis-ci.org/lotrekagency/google-site-verification)
+[![codecov](https://codecov.io/gh/lotrekagency/django-google-site-verification/branch/master/graph/badge.svg)](https://codecov.io/gh/lotrekagency/django-google-site-verification)
+[![Build Status](https://travis-ci.org/lotrekagency/django-google-site-verification.svg?branch=master)](https://travis-ci.org/lotrekagency/django-google-site-verification)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/google-site-verification/blob/master/LICENSE)
 
 Our internal utility to easily add Google verification file
