@@ -5,4 +5,5 @@ clean:
 	@find . -name "__pycache__" -type d | xargs rm -rf
 
 test: clean
-	@python runtests.py --with-coverage
+	@flake8 google_site_verification
+	@pytest --cov=google_site_verification -s
