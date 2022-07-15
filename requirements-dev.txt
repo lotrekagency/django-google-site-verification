@@ -7,4 +7,4 @@ flake8==3.7.9
 pytest>=3.9.1
 pytest-cov>=2.6.0
 pytest-django>=3.4.3
-codecov==2.0.9
+codecov==2.0.16
